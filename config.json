@@ -1,0 +1,9 @@
+{
+    "api_key": "your_openweathermap_api_key",
+    "interval": 300,
+    "cities": ["Delhi", "Mumbai", "Chennai", "Bangalore", "Kolkata", "Hyderabad"],
+    "thresholds": {
+        "max_temp": 35,
+        "weather_conditions": ["Rain", "Snow"]
+    }
+}

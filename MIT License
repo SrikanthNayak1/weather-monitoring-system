@@ -1,0 +1,10 @@
+
+### **12. Commit and Push to GitHub:**
+
+1. **Add, commit, and push the project to GitHub:**
+
+   ```bash
+   git add .
+   git commit -m "Initial commit for weather monitoring system"
+   git remote add origin https://github.com/yourusername/weather-monitoring-system.git
+   git push -u origin main
